@@ -1,5 +1,3 @@
-"""Configuración de la base de datos"""
-
 import sqlite3
 
 try:
